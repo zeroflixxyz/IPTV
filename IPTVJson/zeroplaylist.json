@@ -1,4 +1,4 @@
-﻿{
+{
   "categories": [
     {
       "id": 0,
@@ -117,6 +117,7 @@
     {
       "cid": 1,
       "name": "BBC World News",
+	  "logo_url": "https://cdn.vox-cdn.com/thumbor/_2Taf1SSEfEt3vhgjXwc7Mv_VKY=/0x26:640x453/1200x800/filters:focal(0x26:640x453)/cdn.vox-cdn.com/assets/1005382/bbc_logo_red.jpg"
       "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
     },
     {
