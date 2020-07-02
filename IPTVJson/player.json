@@ -2,14 +2,14 @@
     "streams": [
         {
             "name": "BBC News",
-            "logo": "bbc_news.png",
+            "logo": "bbcnews.png",
             "url": [
-                "https://lh3.googleusercontent.com/iQ_hCGv0cOKdE_tLLtvQzS_oT_P2xMTdEcQvDyuA2gzPVY2yZA-eQfFt46DX6HQ5SmnnJnZMDaM2aRiE7hX0sd_E_GJM9AW9ZnHZ75WutS9PCHBHAj0NiXrJadRVvE6dbktPbMym5IU=m37"
+                "https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8"
             ]
         },
         {
             "name": "BBC World News",
-            "logo": "bbc_world_news.png",
+            "logo": "https://i.imgur.com/FHRHlL6.png",
             "url": [
                 "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
             ]
