@@ -226,9 +226,87 @@
     },
 	{
       "cid": 2,
+      "name": "ARIRANG",
+	  "logo_url": "https://freeview.github.io/logos/arirang.png",
+      "stream_url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8"
+    },
+	{
+      "cid": 2,
       "name": "DW TV",
 	  "logo_url": "https://i.imgur.com/rB71ZtC.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "DW TV",
+	  "logo_url": "https://i.imgur.com/rB71ZtC.png",
+      "stream_url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "France24",
+	  "logo_url": "https://freeview.github.io/logos/france24.png",
+      "stream_url": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "TVIKIM",
+	  "logo_url": "https://www.tvikim.my/images/logo-header-02.png",
+      "stream_url": "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Suria",
+	  "logo_url": "",
+      "stream_url": "https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Vasantham",
+	  "logo_url": "",
+      "stream_url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Astro Go Shop",
+	  "logo_url": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120.png",
+      "stream_url": "https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Trans 7",
+	  "logo_url": "https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png",
+      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Trans TV",
+	  "logo_url": "",
+      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Channel NewsAsia",
+	  "logo_url": "",
+      "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Al Jazeera",
+	  "logo_url": "",
+      "stream_url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "TRT World",
+	  "logo_url": "",
+      "stream_url": "https://tv-trtworld.live.trt.com.tr/master_720.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "CONtv",
+	  "logo_url": "",
+      "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8"
     },
 	{
       "cid": 2,
@@ -241,6 +319,72 @@
       "name": "BBC LIFE STYLE",
 	  "logo_url": "https://i.imgur.com/FHRHlL6.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "RedBull TV",
+	  "logo_url": "",
+      "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Combat Go",
+	  "logo_url": "https://static.wixstatic.com/media/242286_049047be9f6d436e94e60be0067baca1~mv2.png",
+      "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "Stadium",
+	  "logo_url": "",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
+    },
+	{
+      "cid": 2,
+      "name": "",
+	  "logo_url": "",
+      "stream_url": ""
     },
 	{
       "cid": 5,
