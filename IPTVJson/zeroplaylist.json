@@ -29,374 +29,374 @@
     {
       "cid": 0,
       "name": "GAZI TV",
-	  "logo_url": "https://i.imgur.com/E651ujM.png",
+	  "logo": "gtv.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "MAASRANGA TV",
-	  "logo_url": "https://i.imgur.com/GjWIbhK.png",
+	  "logo": "https://i.imgur.com/GjWIbhK.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "DEEPTO TV",
-	  "logo_url": "https://i.imgur.com/yvjZc2B.png",
+	  "logo": "deeptotv.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "ASIAN TV",
-	  "logo_url": "https://i.imgur.com/iI8ghdP.png",
+	  "logo": "asiantv.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "SA TV",
-	  "logo_url": "https://i.imgur.com/KLCubhO.png",
+	  "logo": "https://i.imgur.com/KLCubhO.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "DBC NEWS",
-	  "logo_url": "https://i.imgur.com/0L73GSR.png",
+	  "logo": "dbcnews.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "EKATTOR TV",
-	  "logo_url": "https://i.imgur.com/XNDMn4x.png",
+	  "logo": "ekattortv.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "NAGORIK TV",
-	  "logo_url": "https://i.imgur.com/Q4JzHwg.png",
+	  "logo": "https://i.imgur.com/Q4JzHwg.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "DURONTO TV",
-	  "logo_url": "https://i.imgur.com/HX7ydxF.png",
+	  "logo": "durontotv.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "CHANNEL I",
-	  "logo_url": "https://i.imgur.com/oLdwDmh.png",
+	  "logo": "channeli.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "GAAN BANGLA",
-	  "logo_url": "https://i.imgur.com/6PLZFVS.png",
+	  "logo": "gannbangla.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "SOMOY NEWS",
-	  "logo_url": "https://i.imgur.com/akgy5XP.png",
+	  "logo": "https://i.imgur.com/akgy5XP.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "INDEPENDENT TV",
-	  "logo_url": "https://i.imgur.com/NZ5EyQm.png",
+	  "logo": "independent.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "ATN NEWS",
-	  "logo_url": "https://i.imgur.com/Jj7GNu6.png",
+	  "logo": "https://i.imgur.com/Jj7GNu6.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "BOISHAKHI TV",
-	  "logo_url": "https://i.imgur.com/Ekh4ao4.png",
+	  "logo": "https://i.imgur.com/Ekh4ao4.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "R TV",
-	  "logo_url": "https://i.imgur.com/5hVQIui.png",
+	  "logo": "https://i.imgur.com/5hVQIui.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "ATN BANGLA",
-	  "logo_url": "https://i.imgur.com/S4FB4O4.png",
+	  "logo": "https://i.imgur.com/S4FB4O4.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "CHANNEL 9",
-	  "logo_url": "https://i.imgur.com/aaFTAkH.png",
+	  "logo": "https://i.imgur.com/aaFTAkH.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "EKUSHE TV",
-	  "logo_url": "https://i.imgur.com/YWy6qHi.png",
+	  "logo": "https://i.imgur.com/YWy6qHi.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "BANGLA VISION",
-	  "logo_url": "https://i.imgur.com/w0sNs3A.png",
+	  "logo": "https://i.imgur.com/w0sNs3A.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8"
     },
 	{
       "cid": 0,
       "name": "N TV",
-	  "logo_url": "https://i.imgur.com/fgItgKT.png",
+	  "logo": "https://i.imgur.com/fgItgKT.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8"
     },
 	{
       "cid": 0,
       "name": "BTV WORLD",
-	  "logo_url": "https://i.imgur.com/2RyPRUR.png",
+	  "logo": "https://i.imgur.com/2RyPRUR.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "STAR GOLD",
-	  "logo_url": "https://i.imgur.com/wDgOB6E.jpg",
+	  "logo": "https://i.imgur.com/wDgOB6E.jpg",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "ZEE CINEMA",
-	  "logo_url": "https://i.imgur.com/4vuH3nl.png",
+	  "logo": "https://i.imgur.com/4vuH3nl.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "ZEE TV",
-	  "logo_url": "https://i.imgur.com/Fq1cnzE.png",
+	  "logo": "https://i.imgur.com/Fq1cnzE.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "SITARAY",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/hum_sitaray/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "STAR JALSHA",
-	  "logo_url": "https://i.imgur.com/x780x2Y.png",
+	  "logo": "https://i.imgur.com/x780x2Y.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "COLORS BANGLA",
-	  "logo_url": "https://i.imgur.com/KJc5ens.png",
+	  "logo": "https://i.imgur.com/KJc5ens.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8"
     },
 	{
       "cid": 3,
       "name": "SANGEET BANGLA",
-	  "logo_url": "https://i.imgur.com/epr6zgI.png",
+	  "logo": "https://i.imgur.com/epr6zgI.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8"
     },
 	{
       "cid": 1,
       "name": "COLORS HD",
-	  "logo_url": "https://i.imgur.com/hx10DlQ.png",
+	  "logo": "https://i.imgur.com/hx10DlQ.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "VHL",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "STAR WORLD",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "CB ASIA",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "ARIRANG",
-	  "logo_url": "https://freeview.github.io/logos/arirang.png",
+	  "logo": "https://freeview.github.io/logos/arirang.png",
       "stream_url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8"
     },
 	{
       "cid": 2,
       "name": "DW TV",
-	  "logo_url": "https://i.imgur.com/rB71ZtC.png",
+	  "logo": "https://i.imgur.com/rB71ZtC.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "DW TV",
-	  "logo_url": "https://i.imgur.com/rB71ZtC.png",
+	  "logo": "https://i.imgur.com/rB71ZtC.png",
       "stream_url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8"
     },
 	{
       "cid": 2,
       "name": "France24",
-	  "logo_url": "https://freeview.github.io/logos/france24.png",
+	  "logo": "https://freeview.github.io/logos/france24.png",
       "stream_url": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8"
     },
 	{
       "cid": 2,
       "name": "TVIKIM",
-	  "logo_url": "https://www.tvikim.my/images/logo-header-02.png",
+	  "logo": "https://www.tvikim.my/images/logo-header-02.png",
       "stream_url": "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8"
     },
 	{
       "cid": 2,
       "name": "Suria",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8"
     },
 	{
       "cid": 2,
       "name": "Vasantham",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8"
     },
 	{
       "cid": 2,
       "name": "Astro Go Shop",
-	  "logo_url": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120.png",
+	  "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120.png",
       "stream_url": "https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
     },
 	{
       "cid": 2,
       "name": "Trans 7",
-	  "logo_url": "https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png",
+	  "logo": "https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png",
       "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
     },
 	{
       "cid": 2,
       "name": "Trans TV",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
     },
 	{
       "cid": 2,
       "name": "Channel NewsAsia",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
     },
 	{
       "cid": 2,
       "name": "Al Jazeera",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8"
     },
 	{
       "cid": 2,
       "name": "TRT World",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://tv-trtworld.live.trt.com.tr/master_720.m3u8"
     },
 	{
       "cid": 2,
       "name": "CONtv",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8"
     },
 	{
       "cid": 2,
       "name": "TLC",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "BBC LIFE STYLE",
-	  "logo_url": "https://i.imgur.com/FHRHlL6.png",
+	  "logo": "https://i.imgur.com/FHRHlL6.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8"
     },
 	{
       "cid": 2,
       "name": "RedBull TV",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
     },
 	{
       "cid": 2,
       "name": "Combat Go",
-	  "logo_url": "https://static.wixstatic.com/media/242286_049047be9f6d436e94e60be0067baca1~mv2.png",
+	  "logo": "https://static.wixstatic.com/media/242286_049047be9f6d436e94e60be0067baca1~mv2.png",
       "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8"
     },
 	{
       "cid": 2,
       "name": "Stadium",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8"
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 2,
       "name": "",
-	  "logo_url": "",
+	  "logo": "",
       "stream_url": ""
     },
 	{
       "cid": 5,
       "name": "BBC WORLD",
-	  "logo_url": "https://i.imgur.com/FHRHlL6.png",
+	  "logo": "https://i.imgur.com/FHRHlL6.png",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8"
     },	    
 
     {
       "cid": 5,
       "name": "Zee Bioskop",
-	  "logo_url": "https://i.imgur.com/FHRHlL6.png",
+	  "logo": "https://i.imgur.com/FHRHlL6.png",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
     }
   ]
