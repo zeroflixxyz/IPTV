@@ -88,7 +88,7 @@
         },
 		{
             "name": "SOMOY NEWS",
-            "logo": "somoy_news.png",
+            "logo": "somoytv.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8"
 				
@@ -127,123 +127,123 @@
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "ATN BANGLA",
+            "logo": "atnbangla.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "CHANNEL 9",
+            "logo": "channel9.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "EKUSHE TV",
+            "logo": "ekusheytv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "BANGLA VISION",
+            "logo": "banglavision.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "N TV",
+            "logo": "ntv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "BTV WORLD",
+            "logo": "btv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "STAR GOLD",
+            "logo": "star-gold.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "ZEE CINEMA",
+            "logo": "zeecinema.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "ZEE TV",
+            "logo": "zeetv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "STAR JALSHA",
+            "logo": "starjalsha.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "COLORS BANGLA",
+            "logo": "colorsbangla.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "SANGEET BANGLA",
+            "logo": "sangeetbangla.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "COLORS HD",
+            "logo": "colors.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
+            "name": "VHL",
             "logo": ".png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "STAR WORLD",
+            "logo": "starworld.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8"
             ]
         },
 		{
