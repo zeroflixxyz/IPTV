@@ -10,122 +10,120 @@
         },
 		{
             "name": "MAASRANGA TV",
-            "logo": ".png",
+            "logo": "maasranga.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
             ]
         },
 			{
-            "name": "",
-            "logo": ".png",
+            "name": "DEEPTO TV",
+            "logo": "deeptotv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "ASIAN TV",
+            "logo": "asiantv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "SA TV",
+            "logo": "sa_tv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "DBC NEWS",
+            "logo": "dbcnews.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8"				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "EKATTOR TV",
+            "logo": "ekattortv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "NAGORIK TV",
+            "logo": "nagoriktv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "DURONTO TV",
+            "logo": "durontotv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "CHANNEL I",
+            "logo": "channeli.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "GAAN BANGLA",
+            "logo": "gannbangla.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8"
+			]
+        },
+		{
+            "name": "SOMOY NEWS",
+            "logo": "somoy_news.png",
+            "url": [
+                "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8"
+				
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "INDEPENDENT TV",
+            "logo": "independent.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "ATN NEWS",
+            "logo": "atnnews.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "BOISHAKHI TV",
+            "logo": "boishakhitv.png",
             "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8"
             ]
         },
 		{
-            "name": "",
-            "logo": ".png",
+            "name": "R TV",
+            "logo": "rtv.png",
             "url": [
-                "",
-				""
-            ]
-        },
-		{
-            "name": "",
-            "logo": ".png",
-            "url": [
-                "",
-				""
+                "https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8"
             ]
         },
 		{
