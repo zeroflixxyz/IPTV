@@ -215,7 +215,7 @@
         },
 		{
             "name": "& Pictures HD",
-            "logo": "and_picture_hd.png",
+            "logo": "and-picture-hd.png",
             "url": [
                 "https://watchindia.net:8443/live/86980/16058/783.ts",
 				"https://watchindia.net:8443/live/86980/16058/783.ts"
@@ -231,7 +231,7 @@
         },
 		{
             "name": "& TV HD",
-            "logo": "and_tv.png",
+            "logo": "andtv-hd.png",
             "url": [
                 "https://watchindia.net:8443/live/86980/16058/782.ts",
 				"https://watchindia.net:8443/live/86980/16058/782.ts"
@@ -247,7 +247,7 @@
         },
 		{
             "name": "Sony Max HD",
-            "logo": "sony_max_hd.png",
+            "logo": "sonymaxhd.png",
             "url": [
                 "https://watchindia.net:8443/live/86980/16058/788.ts",
 				"https://watchindia.net:8443/live/86980/16058/788.ts"
