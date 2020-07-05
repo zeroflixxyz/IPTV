@@ -877,11 +877,11 @@
             ]
         },
 	    {
-            "name": "Disney Channel",
-            "logo": "french_tv5.png",
+            "name": "KTV Kids",
+            "logo": "ktv_kids.png",
             "url": [
-                "http://192.168.1.1:1234/udp/239.255.15.23:1234",
-				"http://192.168.1.1:1234/udp/239.255.15.23:1234"
+                "https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8",
+		"https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8"
             ]
         },
 	            
