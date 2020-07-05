@@ -705,6 +705,14 @@
 				"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8"
             ]
         },
+	    {
+            "name": "& Pictures HD",
+            "logo": "and_picture_hd.png",
+            "url": [
+                "https://watchindia.net:8443/live/86980/16058/783.ts",
+				"https://watchindia.net:8443/live/86980/16058/783.ts"
+            ]
+        },
         
         {
             "name": "ARIRANG",
