@@ -876,6 +876,14 @@
 				"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8"
             ]
         },
+	    {
+            "name": "Disney Channel",
+            "logo": "french_tv5.png",
+            "url": [
+                "http://192.168.1.1:1234/udp/239.255.15.23:1234",
+				"http://192.168.1.1:1234/udp/239.255.15.23:1234"
+            ]
+        },
 	            
         {
             "name": "ARIRANG",
