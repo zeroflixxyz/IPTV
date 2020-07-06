@@ -1,6 +1,13 @@
 {
     "streams": [
-        {
+        /*{
+            "name": "Update App!",
+            "logo": "zero_update.png",
+            "url": [
+                "VIDEO_URL"		
+            ]
+        },*/
+	    {
             "name": "GAZI TV",
             "logo": "gtv.png",
             "url": [
