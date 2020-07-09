@@ -6,7 +6,7 @@ BTC: 1CvTHxYHyUYDxnvjCmSvZBEkjLzqw6BNun <br><br>
 
 <div align=center>
 <b>Download App:</b><br>
-<a href="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVapk/ZeroflixAndroidIPTV.apk" target="_blank">
+<a href="https://zeroflixtv.page.link/tvphone" target="_blank">
 <img src="https://i.imgur.com/o5tX7p1.png" alt="Download app" height="80"/> <br><br>
 <a href="https://bit.ly/zerotvphone" target="_blank">
 <img src="https://i.imgur.com/o5tX7p1.png" alt="Download app" height="80"/>
