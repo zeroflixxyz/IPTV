@@ -186,7 +186,7 @@
         },
 		{
             "name": "ATN ISLAM",
-            "logo": "atn_islam.png",
+            "logo": "atn_islamic_tv.png",
             "url": [
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8"				
             ]
@@ -249,7 +249,7 @@
         },
 		{
             "name": "Royal TV",
-            "logo": "droyal_tv.png",
+            "logo": "royal_tv.png",
             "url": [
                 "http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8"
 				
@@ -273,7 +273,7 @@
         },
 		{
             "name": "Joy Jatra TV",
-            "logo": "alif_tv.png",
+            "logo": "joyjatra_tv.png",
             "url": [
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8"				
             ]
@@ -322,7 +322,7 @@
         },
 		{
             "name": "NRB HD",
-            "logo": "nrb_hd.png",
+            "logo": "nrb_tv.png",
             "url": [
                 "http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8"				
             ]
