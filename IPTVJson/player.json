@@ -411,7 +411,10 @@
             "name": "Cartoon Network HD",
             "logo": "cartoonnetwork.png",
             "url": [
-                "http://103.135.208.14/live/ibox/bd/2.m3u8"				
+                "http://luckonline.eu:8080/PRdAgsQRF5/0117589321/752",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1128",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/458",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/2707"
             ]
         },
 		{
@@ -463,7 +466,11 @@
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
+				"https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
+				"https://watchindia.net:8443/live/29940/38343/785.ts",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/604",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/605",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/946"
             ]
         },
 		{
@@ -472,7 +479,9 @@
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
-				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8"
+				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/599",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1000"
             ]
         },
 		{
@@ -480,7 +489,8 @@
             "logo": "and-picture-hd.png",
             "url": [
                 "http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8",				
-				"http://103.205.133.14/hls/andpicture.m3u8"
+				"http://103.205.133.14/hls/andpicture.m3u8",
+				"https://watchindia.net:8443/live/29940/38343/783.ts"
             ]
         },
 		{
@@ -504,7 +514,9 @@
             "logo": "zee_bollywood.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8"
+				"https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
+				"https://watchindia.net:8443/live/29940/38343/822.ts",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/614"
             ]
         },
 		{
@@ -520,7 +532,18 @@
             "logo": "sonymaxhd.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-				"https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
+				"https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
+				"https://watchindia.net:8443/live/29940/38343/788.ts",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1366",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/747"
+            ]
+        },
+		{
+            "name": "Sony Max 2",
+            "logo": "sony_max2.png",
+            "url": [
+                "https://watchindia.net:8443/live/29940/38343/2024.ts",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/602"
             ]
         },
 		{
@@ -536,7 +559,8 @@
             "logo": "sony_pix.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-				"https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
+				"https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1062"
             ]
         },
 		{
@@ -647,7 +671,7 @@
             "name": "Discovery HD",
             "logo": "discovery_hd.png",
             "url": [
-                "https://watchindia.net:8443/live/29940/38343/1924.ts"
+                "https://watchindia.net:8443/live/29940/38343/841.ts"
 				
             ]
         },
@@ -713,7 +737,8 @@
             "logo": "starmovies.png",
             "url": [
                 "https://watchindia.net:8443/live/29940/38343/2080.ts",
-				"https://watchindia.net:8443/live/29940/38343/2080.ts"
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1169",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/745"
             ]
         },
 		{
@@ -729,7 +754,9 @@
             "logo": "zee_action.png",
             "url": [
                 "http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8",
-				"http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8"
+				"http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8",
+				"https://watchindia.net:8443/live/29940/38343/821.ts",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/730"
             ]
         },
 		{
@@ -738,6 +765,22 @@
             "url": [
                 "http://103.135.208.14/live/ibox/bd/7.m3u8",
 				"http://103.135.208.14/live/ibox/bd/7.m3u8"
+            ]
+        },
+		{
+            "name": "UTV Action",
+            "logo": "utv_action.png",
+            "url": [
+                "https://watchindia.net:8443/live/29940/38343/805.ts",
+				"https://watchindia.net:8443/live/29940/38343/805.ts"
+            ]
+        },
+		{
+            "name": "UTV HD",
+            "logo": "utv_hd.png",
+            "url": [
+                "https://watchindia.net:8443/live/29940/38343/811.ts",
+				"https://watchindia.net:8443/live/29940/38343/811.ts"
             ]
         },
 		{
@@ -784,7 +827,8 @@
             "name": "B4U MOVIES",
             "logo": "b4umovies.png",
             "url": [
-                "http://103.205.133.14/hls/b4umovies.m3u8"				
+                "http://103.205.133.14/hls/b4umovies.m3u8",
+				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/607"				
             ]
         },
 		{
@@ -809,7 +853,8 @@
             "logo": "manaranjan_movie.png",
             "url": [
 				"https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8",
-                "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8"				
+                "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
+				"https://watchindia.net:8443/live/29940/38343/804.ts"				
             ]
         },
 		{
