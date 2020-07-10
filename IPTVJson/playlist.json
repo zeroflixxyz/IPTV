@@ -395,7 +395,7 @@
         },
 		{
             "name": "Mr Bean Show",
-            "logo": "mr_bean_show.png",
+            "logo": "mr_bean.png",
             "url": [
                 "http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0"				
             ]
@@ -415,8 +415,8 @@
             ]
         },
 		{
-            "name": "BANGLA TV BD",
-            "logo": "banglatv_bd.png",
+            "name": "71 BANGLA",
+            "logo": "71_bangla.png",
             "url": [
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8"				
             ]
