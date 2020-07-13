@@ -124,14 +124,16 @@
             "logo": "channeli.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8"
+				"https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
+				"http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8"
             ]
         },
 		{
             "name": "GAAN BANGLA",
             "logo": "gannbangla.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8"
+                "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8",
+				"http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8"
 			]
         },
 		{
@@ -483,7 +485,7 @@
                 "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/599",
+				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1000"
             ]
         },
@@ -520,6 +522,13 @@
 				"https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
 				"https://watchindia.net:8443/live/53492/87639/822.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/614"
+            ]
+        },
+		{
+            "name": "SONY SET",
+            "logo": "sony_set.png",
+            "url": [
+                "http://tv-cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8"				
             ]
         },
 		{
@@ -618,7 +627,7 @@
             "name": "MAHA MOVIES",
             "logo": "maha_movies.png",
             "url": [
-                "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8",
+                "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8",				
 				"https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"
             ]
         },
@@ -1242,7 +1251,8 @@
             "logo": "dhoom.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8"
+				"https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8",
+				"http://tv-cdn.ihub.live:8080/Dhoom/tracks-v1a1/mono.m3u8"
 				
             ]
         },
