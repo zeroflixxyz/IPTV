@@ -1,10 +1,8 @@
 # EXTM3U
 #EXTINF: -1 tvg-name = "GAZI TV" tvg-id = "BD" group-title = "GENERAL" tvg-logo = "https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",GAZI TV
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-
 #EXTINF: -1 tvg-name = "GAZI TV" tvg-id = "BD" group-title = "GENERAL" tvg-logo = "https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",GAZI TV
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-
 #EXTINF: -1 tvg-name = "Das Erste HD" tvg-id = "ARD.de" group-title = "Vollprogramm" tvg-logo = "https://raw.githubusercontent.com/jnk22/kodinerds-iptv /master/logos/tv/daserstehd.png",The First HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF: -1 tvg-name = "ZDF HD" tvg-id = "ZDF.de" group-title = "full program" tvg-logo = "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/ master / logos / tv / zdfhd.png ", ZDF HD
