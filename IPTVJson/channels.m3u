@@ -11,61 +11,83 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-name="ASIAN TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/asiantv.png",ASIAN TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="SA TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/satv-bd.png",SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="DBC NEWS" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/dbcnews.png",DBC NEWS
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/channel24.png",CHANNEL 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/jamunatv.png",JAMUNA TV
+http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/ekattortv.png",EKATTOR TV
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="MOHONA TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/mohonatv.png",MOHONA TV
+https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="MY TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/mytv.png",MY TV
+https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="DURONTO TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/durontotv.png",DURONTO TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="CHANNEL I" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/channeli.png",CHANNEL I
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gannbangla.png",GAAN BANGLA
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="SOMOY NEWS" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/somoytv.png",SOMOY NEWS
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/independent.png",INDEPENDENT TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="ATN NEWS" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/atnnews.png",ATN NEWS
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="BOISHAKHI TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/boishakhitv.png",BOISHAKHI TV
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="R TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/rtv.png",R TV
+https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/atnbangla.png",ATN BANGLA
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-name="ATN ISLAM" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/atn_islamic_tv.png",ATN ISLAM
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL 9" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/channel9.png",CHANNEL 9
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+
+#EXTINF:-1 tvg-name="EKUSHE TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/ekusheytv.png",EKUSHE TV
+http://103.205.133.19/hls/ekushey.m3u8
+
+#EXTINF:-1 tvg-name="BIJOY TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/bijoytv.png",BIJOY TV
+http://103.135.208.14/live/ibox/bd/30.m3u8
+
+#EXTINF:-1 tvg-name="Shopno TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/shopno_tv.png",Shopno TV
+http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BANGLA VISION" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/banglavision.png",BANGLA VISION
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1 tvg-name="N TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/ntv.png",N TV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8
+
+#EXTINF:-1 tvg-name="DESH TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/deshtv.png",DESH TV
+http://103.205.133.14/hls/deshtv.m3u8
+
+#EXTINF:-1 tvg-name="Royal TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/royal_tv.png",Royal TV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Deshe Bideshe" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/deshe_bideshe.png",Deshe Bideshe
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Joy Jatra TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/joyjatra_tv.png",Joy Jatra TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
