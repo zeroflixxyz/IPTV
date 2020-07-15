@@ -42,7 +42,7 @@ https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-name="SOMOY NEWS" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/somoytv.png",SOMOY NEWS
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
 #EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/independent.png",INDEPENDENT TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
