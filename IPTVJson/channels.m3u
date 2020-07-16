@@ -1,6 +1,6 @@
 #EXTM3U
-*#EXTINF:-1 tvg-name="Image not Found" tvg-id="General" group-title="Bangla" tvg-logo="https://i.imgur.com/fZMZ7QX.png",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+//#EXTINF:-1 tvg-name="Image not Found" tvg-id="General" group-title="Bangla" tvg-logo="https://i.imgur.com/fZMZ7QX.png",Gazi TV
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8//
 
 #EXTINF:-1 tvg-name="Gazi TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gtv.png",Gazi TV
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
