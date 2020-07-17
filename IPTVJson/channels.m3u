@@ -101,7 +101,7 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-name="Joy Jatra TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/joyjatra_tv.png",Joy Jatra TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Ditty TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/not_found.png",Ditty TV
+#EXTINF:-1 tvg-name="Ditty TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/ditty_tv.png",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 
 #EXTINF:-1 tvg-name="Dust" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/dust_tv.png",Dust
