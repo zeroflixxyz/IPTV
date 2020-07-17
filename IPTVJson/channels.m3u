@@ -110,7 +110,7 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmbox" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/film_box.png",Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Gusto TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gusto_tv.png",Gusto TV
+#EXTINF:-1 tvg-name="Gusto TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/gusto.png",Gusto TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 
 #EXTINF:-1 tvg-name="Filmax" tvg-id="General" group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/filmax.png",Filmax
