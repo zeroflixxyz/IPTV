@@ -112,3 +112,12 @@ https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Gusto TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/not_found.png",Gusto TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-name="Filmax" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/filmax.png",Filmax
+http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Film World" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/film_world.png",Film World
+http://playlive.goonj.pk/filmworldweb_360p/index.m3u8
+
+#EXTINF:-1 tvg-name="Geo Entertainment" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/IPTVJson/widelogo/geo_entertainment.png",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
