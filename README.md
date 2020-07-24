@@ -18,7 +18,7 @@ Scan the code for donate:<br>
   - More channels adding regularly.<br><br>
 `After install you will get update link from your TV screen regularly.`<br>
 
-# For Mobile- Download App:
+# For Mobile- Download App: (Ads Supported)
 <a href="https://zeroflixtv.page.link/tvphone" target="_blank">
 <img src="https://i.imgur.com/o5tX7p1.png" alt="Download app" height="80"/></a> <br><br>
 <a href="http://gg.gg/zerotvphone" target="_blank">
