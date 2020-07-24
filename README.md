@@ -21,6 +21,6 @@ Scan the code for donate:<br>
 # For Mobile- Download App:
 <a href="https://zeroflixtv.page.link/tvphone" target="_blank">
 <img src="https://i.imgur.com/o5tX7p1.png" alt="Download app" height="80"/></a> <br><br>
-<a href="https://bit.ly/zerotvphone" target="_blank">
+<a href="http://gg.gg/zerotvphone" target="_blank">
 <img src="https://i.imgur.com/o5tX7p1.png" alt="Download app" height="80"/></a>
 <!--<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Download app" height="80"/>-->
