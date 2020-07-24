@@ -7,13 +7,15 @@ BTC: 1CvTHxYHyUYDxnvjCmSvZBEkjLzqw6BNun <br><br>
 <div align=center>
 <b>For android TV box/ android Smart TV:</b>
 <a href="https://www.buymeacoffee.com/l/zerotvbox" target="_blank">
-<img src="imgs/tv.png" alt="Android TVbox app" height="200"/>
-  - Free forever.
-  - Ads free.
-  - 250+ active TV channels.
-  - Bangladesh, India, Pakistan & rest of world's Live TV.
-  - More channels adding regularly.
-`- After install you will get update link from your TV screen.-`
+<img src="imgs/tv.png" alt="Android TVbox app" height="200"/><br>
+  
+#Features: <br>
+  - Free forever.<br>
+  - Ads free.<br>
+  - 250+ active TV channels.<br>
+  - Bangladesh, India, Pakistan & rest of world's Live TV.<br>
+  - More channels adding regularly.<br>
+`After install you will get update link from your TV screen.`
   
 <b>Download App:</b><br>
 <a href="https://zeroflixtv.page.link/tvphone" target="_blank">
