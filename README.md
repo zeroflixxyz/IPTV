@@ -7,7 +7,7 @@ Scan the code for donate:<br>
 
 
 # For android TV box/ android Smart TV:
-<a href="https://www.buymeacoffee.com/l/zerotvbox" target="_blank">
+<a href="http://gg.gg/zerobox" target="_blank">
 <img src="imgs/tv.png" alt="Android TVbox app" height="200"/></a><br>
   
 # Features:
